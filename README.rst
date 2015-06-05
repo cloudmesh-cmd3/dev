@@ -9,17 +9,17 @@ Some scripts useful for developers
 
 new virtualenv (deletes ~/ENV)::
 
-  env-new.sh
+  dev/env-new.sh
   
 make sure env is up to date (python 2.7.10, pip 7.0.3)::
 
-  env-info.sh
+  dev/env-info.sh
 
 get code::
   
-  cm-checkout.py
+  dev/cm-checkout.py
 
 install::
 
-  cm-install.sh
+  dev/cm-install.sh
   
